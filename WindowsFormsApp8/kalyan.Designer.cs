@@ -92,7 +92,7 @@
             // dobavkalyanprodaja
             // 
             this.dobavkalyanprodaja.Font = new System.Drawing.Font("Mistral", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.dobavkalyanprodaja.Location = new System.Drawing.Point(25, 38);
+            this.dobavkalyanprodaja.Location = new System.Drawing.Point(25, 29);
             this.dobavkalyanprodaja.Name = "dobavkalyanprodaja";
             this.dobavkalyanprodaja.Size = new System.Drawing.Size(143, 56);
             this.dobavkalyanprodaja.TabIndex = 3;
@@ -167,7 +167,7 @@
             // 
             // poiskkalyan
             // 
-            this.poiskkalyan.Location = new System.Drawing.Point(628, 129);
+            this.poiskkalyan.Location = new System.Drawing.Point(628, 122);
             this.poiskkalyan.Name = "poiskkalyan";
             this.poiskkalyan.Size = new System.Drawing.Size(135, 53);
             this.poiskkalyan.TabIndex = 4;
@@ -178,7 +178,7 @@
             // update
             // 
             this.update.Font = new System.Drawing.Font("Mistral", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.update.Location = new System.Drawing.Point(651, 188);
+            this.update.Location = new System.Drawing.Point(652, 181);
             this.update.Name = "update";
             this.update.Size = new System.Drawing.Size(89, 54);
             this.update.TabIndex = 5;
